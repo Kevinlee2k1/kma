@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+
+
+#DivDemo1 { 
+	margin: 20px 0 0 0;
+  width: 200px;
+}
+
+#demo1 {
+	margin: 20px 0 0 0;
+}
+#DivDemo2 { 
+	margin: 20px 0 0 0;
+	width: 200px;
+}
+#demo2 { 
+	margin: 20px 0 0 0;
+}
+#DivDemo3 { 
+	margin: 20px 0 0 0;
+	width: 200px;
+/*  float: left;*/
+}
+#demo3{margin: 20px 0 0 0;}
+.container_mt-3{
+  clear: both;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 100px 100px 100px;
+  
+}
+.collapse {
+	
+}
+#title {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: bold;
+	font-size: 400%; 
+	border-style: solid;
+	background-color: green;
+	color: white;
+	border-color: black;
+	text-align: center;
+}
+
+#custombutton {
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+a:link, a:visited {
+ 
+}
+
+#signup {
+
+	float: right;
+	width:100px;
+	margin:-100px 0 0 0;
+	 background-color: #2E8B57;
+  color: white;
+  padding: 10px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#signup:hover {
+	background-color: Green;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
